@@ -1,0 +1,13 @@
+- Tenta prever algo desconhecido ou responder questoes pertinentes como:
+
+Quando essa casa vai ser vendida?
+O que é essa foto?
+Exame de biopsy é maligno ?
+Essa transação é fraudulenta?
+
+
+Aprendizado supervisionado:
+
+- A propriedade que queremos prever é chamado LABEL
+- Nosso TRAINING DATA SET contem LABELS conhecidos como corretos junto com outros atributos do dado
+- Esse treinamento é usado para construir um MODEL que pode fazer  PREDICTIONS sobre LABELS desconhecidas.
