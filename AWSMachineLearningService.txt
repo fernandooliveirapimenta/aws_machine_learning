@@ -1,0 +1,21 @@
+Esta depreciado
+o
+Prove ferramentas de visualizacao e wizards para criar modelos de forma facil.
+
+Treinar dados no S3, Redshift ou RDS
+
+Constroi modelo que pode fazer previsoes usando batches ou uma api de baixa latencia
+
+Permite treinar/testar e avaliar seu modelo
+
+totalmente gerenciado
+
+Atualmente esta desatualizado !!!!
+
+Quando usar e good patterns:
+
+fraud detection,
+forecasting
+personalization 
+prever acoes de usuario
+classificar midias sociais

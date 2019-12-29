@@ -1,0 +1,15 @@
+Regressao
+Multiclasse 
+Binario
+
+
+quanto vou vender essa casa ? = Regressao
+
+essa foto é do que ? = Multiclasse
+
+essa biopsia é maligna ? = Binario
+
+essa tansacao é fraudulenta ? = Binario
+
+
+Hyperparameters

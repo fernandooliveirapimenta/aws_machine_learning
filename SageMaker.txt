@@ -1,0 +1,18 @@
+SageMaker(sábio):
+escalavel, totalmente gerenciado machine learning
+
+Deeplearning
+
+Build -> Train -> Deploy
+
+SageMaker é poderoso
+
+- Tensorflow
+- Apache MXNet
+- GPU acelerado para deep learning
+- scala ilimitada
+- Hyperparameter jobs tunning
+
+Jupiter notebooks
+
+
